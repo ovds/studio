@@ -1,0 +1,88 @@
+{
+  "placeholderImages": [
+    {
+      "id": "bin-model",
+      "description": "A sleek, modern smart compost bin with a brushed aluminium finish and green accents.",
+      "imageUrl": "/prototype.jpg",
+      "imageHint": "compost bin modern"
+    },
+    {
+      "id": "reduce-waste",
+      "description": "A chef scraping food scraps into a bin in a professional kitchen.",
+      "imageUrl": "https://images.unsplash.com/photo-1563002474-7a3c63212e2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmb29kJTIwd2FzdGUlMjByZXN0YXVyYW50fGVufDB8fHx8MTc1ODYxODc4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food waste restaurant"
+    },
+    {
+      "id": "repurpose-compost",
+      "description": "Hands holding rich, dark compost soil.",
+      "imageUrl": "https://images.unsplash.com/photo-1729368629976-95d8a93c0dfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb21wb3N0JTIwc29pbHxlbnwwfHx8fDE3NTg2MTY5MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "compost soil"
+    },
+    {
+      "id": "redistribute-farm",
+      "description": "Lush green rows of vegetables growing on a local farm.",
+      "imageUrl": "https://images.unsplash.com/photo-1518994603110-1912b3272afd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dmVnZXRhYmxlJTIwZmFybXxlbnwwfHx8fDE3NTg2MTg3ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vegetable farm"
+    },
+    {
+      "id": "how-it-works-1",
+      "description": "A bustling restaurant kitchen with chefs preparing food.",
+      "imageUrl": "https://images.unsplash.com/photo-1629407119384-d42320c3e576?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyZXN0YXVyYW50JTIwa2l0Y2hlbnxlbnwwfHx8fDE3NTg1OTExNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "restaurant kitchen"
+    },
+    {
+      "id": "how-it-works-2",
+      "description": "Close-up of the Reroot smart bin's interface.",
+      "imageUrl": "https://images.unsplash.com/photo-1539558457237-404a2ecf3a22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzbWFydCUyMGJpbnxlbnwwfHx8fDE3NTg2MTg3ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart bin"
+    },
+    {
+      "id": "how-it-works-3",
+      "description": "An electric van branded with Reroot for compost collection.",
+      "imageUrl": "https://images.unsplash.com/photo-1739202412176-ce0f64c108f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxlbGVjdHJpYyUyMHZhbnxlbnwwfHx8fDE3NTg2MDkzNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "electric van"
+    },
+    {
+      "id": "how-it-works-4",
+      "description": "An urban farm with vertical farming setups.",
+      "imageUrl": "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dXJiYW4lMjBmYXJtaW5nfGVufDB8fHx8MTc1ODU5MDgzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "urban farming"
+    },
+    {
+      "id": "how-it-works-5",
+      "description": "A basket of fresh, locally grown vegetables.",
+      "imageUrl": "https://images.unsplash.com/photo-1609126986933-e3c84f19d49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmcmVzaCUyMHZlZ2V0YWJsZXN8ZW58MHx8fHwxNzU4NTg1NDgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fresh vegetables"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "A smiling hotel manager.",
+      "imageUrl": "https://images.unsplash.com/photo-1635131902146-6957477a4ff4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBzbWlsaW5nfGVufDB8fHx8MTc1ODU4MzY2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "A head chef in uniform.",
+      "imageUrl": "https://images.unsplash.com/photo-1611657365907-1ca5d9799f59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjaGVmJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzU4NTg0MDIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chef portrait"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "A smiling sustainability officer.",
+      "imageUrl": "https://images.unsplash.com/photo-1692736475357-7c18bfbb808b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzU4NTUwODkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "food-waste-green",
+      "description": "A pile of fresh vegetable scraps, like carrot peels and lettuce ends.",
+      "imageUrl": "https://images.unsplash.com/photo-1560355676-9e890478cda4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dmVnZXRhYmxlJTIwc2NyYXBzfGVufDB8fHx8MTc1ODYxODc4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vegetable scraps"
+    },
+    {
+      "id": "food-waste-brown",
+      "description": "A pile of dry bread crusts and coffee grounds.",
+      "imageUrl": "https://images.unsplash.com/photo-1653550027228-e3202a24ccc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxicmVhZCUyMGNydXN0c3xlbnwwfHx8fDE3NTg2MTg3ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bread crusts"
+    }
+  ]
+}
