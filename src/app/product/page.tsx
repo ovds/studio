@@ -44,7 +44,7 @@ export default function ProductPage() {
             The Reroot Smart Bin
           </h1>
           <div className="max-w-[700px] mx-auto mt-4 space-y-4">
-            <div className="bg-accent/20 border border-accent/30 rounded-lg p-4">
+            <div className="bg-accent/30 border border-accent/50 rounded-lg p-4">
               <p className="text-accent-foreground font-semibold text-lg">
                 Environmental Goal: Reduce the waste sent to landfill by 30% by 2030
               </p>

@@ -37,8 +37,8 @@ const stats = [
   },
   {
     icon: Recycle,
-    value: 200000,
-    suffix: '+',
+    value: 200,
+    suffix: 'k+',
     title: 'Tonnes Converted',
     description: 'Tonnes of food waste converted to valuable compost.',
   },

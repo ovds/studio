@@ -1,43 +1,37 @@
-NEW CHANGES IN THE MORNING  
+Make the 3 leaves diagram BIGGERR 
 
-Replace: Key Features 
+Fix the images for the reduce repurpose redistribute sections (reduce: food waste photo, repurpose: compost photo, redistribute: farm/growing plant photo 
 
-Engineered for performance, sustainability, and ease of use. 
+Replace the text under each section with the below text: 
 
-AI-Powered Waste Classification 
+The root of our solution to food waste is in reducing it. We do this through incorporating tracking of food types and predictive analytics in order to provide businesses with insights to strategically reduce the food that they cook and purchase based on past data. Buying our product not only reduces food waste generated, but your costs as well. 
 
-Optimal Green-to-Brown Ratio Management 
+This is where our smart bin shines. Food waste is classified into "green" (nitrogen-rich) and "brown" (carbon-rich) materials using our advanced AI and sensor technology. The bin then processes these materials to create nutrient-rich compost, ensuring the ideal ratio for optimal decomposition by sending easy-to-follow reminders to top up brown waste. This repurposes one man’s trash into another man’s treasure. 
 
-Odorless Composting Process 
+The final, crucial step is closing the loop. The high-quality compost produced by our bins is collected and redistributed to local farms across Singapore. This initiative directly supports the nation's "30 by 30" goal by boosting local food production, enhancing soil quality, and creating a truly sustainable farm-to-table-to-farm ecosystem. 
 
-Real-time Data & Analytics Dashboard 
+Make the reduce repurpose redistribute words bigger n more attractive so ppl actly click on them 
 
-Seamless Integration with Kitchen Workflow 
+Product page: 
 
-Supports Singapore Green Plan Compliance 
+(minor, not necessary to change): make the colour of the box around “environmental goal: reduce blahblah” darker so theres better contrast with the words 
 
- 
+Impact page: 
 
-With: Our Product  
+Remove small green “our impact” 
 
-Waste Identification and Tracking  
+Change desc to: 
 
-Our cutting-edge waste-recognition software and sensors tracks the type of food being wasted and seamlessly transfers this valuable data to an easy-to-access database to provide insights on how much wasted food is produced. Knowledge is power.  
+“Here at Reroot, we believe in championing sustainability in everything we do.  
 
- 
+We help your organisation streamline waste management in alignment with the Resource Sustainability Act, and help our local farmers too. 
 
-Automatic Waste Classification 
+It's a win-win-win-win-win-win—for us, you, the farmers, consumers, Singapore, and the planet.” 
 
-This waste is also classified as ‘brown’ (carbon-rich items like paper or twigs) or ‘green’ (nitrogen-rich items like fruit and veggie scraps) for easy composting. Simply top up to the necessary amounts and hit ideal green-to-brown ratios: no hassle, no fuss. 
+Change 200,000 to 200k (so its not sticking out) 
 
- 
+Delete the visualizing our impact section at the bottom? Its kinda useless rn 
 
-Odorless Composting  
+How it works section: 
 
-Scared of the smell? Don’t worry. Our bin’s design prevents any unpleasant from leaving it. Dispose responsibly, forget promptly. 
-
- 
-
-Providing Predictive Analytics  
-
-Our AI software uses historical data to forecast future waste generation, thereby recommending measures to optimise inventory and procurement, as well as total food production (which dishes were most overproduced?). Save money, brain space, and the planet. 
+Reroot bin step – replace image with bin image  

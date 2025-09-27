@@ -20,7 +20,7 @@ const steps = [
   {
     title: 'Reroot Bin',
     description: 'Within a singular bin, waste is classified and treated to be converted into compost.',
-    image: PlaceHolderImages.find((p) => p.id === 'how-it-works-2'),
+    image: PlaceHolderImages.find((p) => p.id === 'bin-model'),
   },
   {
     title: 'Centralised Compost Collection',

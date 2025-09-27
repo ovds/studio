@@ -8,9 +8,9 @@
     },
     {
       "id": "reduce-waste",
-      "description": "A chef scraping food scraps into a bin in a professional kitchen.",
-      "imageUrl": "https://images.unsplash.com/photo-1563002474-7a3c63212e2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmb29kJTIwd2FzdGUlMjByZXN0YXVyYW50fGVufDB8fHx8MTc1ODYxODc4MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "food waste restaurant"
+      "description": "Food waste being reduced at the source in a commercial kitchen.",
+      "imageUrl": "https://images.theconversation.com/files/589323/original/file-20240421-16-fdkg5b.jpeg",
+      "imageHint": "reduce food waste kitchen"
     },
     {
       "id": "repurpose-compost",

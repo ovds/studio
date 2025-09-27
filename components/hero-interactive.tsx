@@ -9,18 +9,21 @@ import Image from 'next/image';
 const loopData = {
   reduce: {
     title: 'Reduce',
-    description: 'The first step in our circular economy model is reducing food waste at the source. The hospitality sector in Singapore generates significant amounts of food scraps daily. By partnering with hotels, restaurants, and F&B groups, Reroot helps businesses track and manage their waste, leading to direct cost savings and a smaller environmental footprint.',
-    image: PlaceHolderImages.find(p => p.id === 'reduce-waste'),
+    description:
+      'The root of our solution to food waste is in reducing it. We do this through incorporating tracking of food types and predictive analytics in order to provide businesses with insights to strategically reduce the food that they cook and purchase based on past data. Buying our product not only reduces food waste generated, but your costs as well.',
+    image: PlaceHolderImages.find((p) => p.id === 'reduce-waste'),
   },
   repurpose: {
     title: 'Repurpose',
-    description: 'This is where our smart bin shines. Food waste is classified into "green" (nitrogen-rich) and "brown" (carbon-rich) materials using advanced AI and sensor technology. The bin then processes these materials to create nutrient-rich compost, ensuring the ideal ratio for optimal decomposition. This repurposes what was once waste into a valuable resource.',
-    image: PlaceHolderImages.find(p => p.id === 'repurpose-compost'),
+    description:
+      'This is where our smart bin shines. Food waste is classified into "green" (nitrogen-rich) and "brown" (carbon-rich) materials using our advanced AI and sensor technology. The bin then processes these materials to create nutrient-rich compost, ensuring the ideal ratio for optimal decomposition by sending easy-to-follow reminders to top up brown waste. This repurposes one man’s trash into another man’s treasure.',
+    image: PlaceHolderImages.find((p) => p.id === 'repurpose-compost'),
   },
   redistribute: {
     title: 'Redistribute',
-    description: 'The final, crucial step is closing the loop. The high-quality compost produced by our bins is collected and redistributed to local farms across Singapore. This initiative directly supports the nation\'s "30 by 30" goal by boosting local food production, enhancing soil quality, and creating a truly sustainable farm-to-table-to-farm ecosystem.',
-    image: PlaceHolderImages.find(p => p.id === 'redistribute-farm'),
+    description:
+      'The final, crucial step is closing the loop. The high-quality compost produced by our bins is collected and redistributed to local farms across Singapore. This initiative directly supports the nation\'s "30 by 30" goal by boosting local food production, enhancing soil quality, and creating a truly sustainable farm-to-table-to-farm ecosystem.',
+    image: PlaceHolderImages.find((p) => p.id === 'redistribute-farm'),
   },
 };
 
@@ -31,7 +34,7 @@ const StageButton = ({ text, onClick, className }: { text: string; onClick: () =
     onClick={onClick}
     whileHover={{ scale: 1.05 }}
     whileTap={{ scale: 0.95 }}
-    className={`text-lg font-headline uppercase font-bold text-primary hover:text-accent transition-colors ${className}`}
+    className={`cursor-pointer font-headline uppercase font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent tracking-wide text-2xl md:text-3xl xl:text-4xl hover:opacity-90 transition ${className}`}
   >
     {text}
   </motion.button>
@@ -75,15 +78,15 @@ export default function HeroInteractive() {
               Uproot your outdated waste management with our smart compost solution for Singapore's hospitality sector, championing a circular economy from kitchen to farm.
             </p>
           </div>
-          <div className="w-full max-w-sm mx-auto py-8">
-            <div className="relative w-80 h-80 mx-auto flex items-center justify-center">
+          <div className="w-full max-w-2xl mx-auto py-8">
+            <div className="relative w-96 h-96 md:w-[28rem] md:h-[28rem] xl:w-[32rem] xl:h-[32rem] mx-auto flex items-center justify-center">
               {/* Circular background with dashed border */}
-              <div className="absolute inset-8 rounded-full border-2 border-dashed border-primary/30"></div>
+              <div className="absolute inset-6 md:inset-10 rounded-full border-2 border-dashed border-primary/30"></div>
 
             
               {/* PNG Logo in the very center */}
               <div className="absolute inset-0 flex items-center justify-center">
-                <Image src="/reroot-logo.png" alt="Reroot Logo" width={80} height={80} />
+                <Image src="/reroot-logo.png" alt="Reroot Logo" width={112} height={112} />
               </div>
 
 
